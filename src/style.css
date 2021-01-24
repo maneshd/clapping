@@ -1,0 +1,24 @@
+div.outer {
+  text-align: center;
+}
+
+div.inner {
+  display: inline-block;
+}
+
+#content {
+  margin-top: 10px;
+  width: 800px;
+  /*height: 600px;*/
+  /*border: solid 1px black;*/
+}
+
+div.debug {
+  text-align: right;
+}
+
+canvas {
+  /*width: 800px;*/
+  /*height: 600px;*/
+  border: solid 1px black;
+}
