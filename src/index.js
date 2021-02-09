@@ -45,7 +45,7 @@ const TRAVELLER_PROPS = {
   fillColor: '#CCCCCC'
 };
 
-const MAX_JITTER = 0.004;
+const MAX_JITTER = 0.001;
 
 
 function makeTravellers(resonanceAudioWrapper, canvas, boundary) {
