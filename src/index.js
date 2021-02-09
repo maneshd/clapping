@@ -1,4 +1,3 @@
-import audioclip from '../resources/SpeechSample.wav';
 import clap01 from '../resources/clap01.wav'
 import clap02 from '../resources/clap02.wav'
 import clap03 from '../resources/clap03.wav'
